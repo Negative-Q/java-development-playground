@@ -1,4 +1,4 @@
-//Java Calculator Version 0.0.1
+//Java Calculator Version 1.0.0
 
 
 import java.util.*;
